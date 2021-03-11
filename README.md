@@ -20,4 +20,5 @@ requirement:
 Python 3.8
 OpenCV 4.5.1.48
 
-
+run:
+python3 main.py
